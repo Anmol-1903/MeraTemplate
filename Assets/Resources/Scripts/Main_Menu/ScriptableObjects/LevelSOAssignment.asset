@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 417b04c92e2627f4f81afd827166a09d, type: 3}
+  m_Name: LevelSOAssignment
+  m_EditorClassIdentifier: 
+  cardTemplate: {fileID: 1836974709902961539, guid: 59680cbbfab4da54ca857118a8921dc8, type: 3}
+  cards:
+  - key: Assessment1
+    sprite: {fileID: 0}
+    title: Assignment 1
+    description: This is the first assessment
+    sceneToLoad: 
+  - key: Assessment2
+    sprite: {fileID: 0}
+    title: Assessment 2
+    description: Another Assessment you need to complete.
+    sceneToLoad: 
+  - key: Assessment3
+    sprite: {fileID: 0}
+    title: Assessment 3
+    description: Complete this for a cookie <3
+    sceneToLoad: 
+  - key: Assessment3
+    sprite: {fileID: 0}
+    title: Assessment 3
+    description: Complete this for a cookie <3
+    sceneToLoad: 

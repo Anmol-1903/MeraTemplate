@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 570662e715abbf544b881826b28725d9
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Diffuse_Light
+    second: {fileID: 2100000, guid: c69c4dd617a84444d96ac7753a06b401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exit_Signage
+    second: {fileID: 2100000, guid: ed7eb008b03b4f34fb6cdb4e192e1b39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_Tile
+    second: {fileID: 2100000, guid: c7d7ead8adc28604098e1a4a3315c5bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gloss_Plastic_Door
+    second: {fileID: 2100000, guid: 0294a93ecac5dc54599da2b18f9e8a92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Innovate_Logo
+    second: {fileID: 2100000, guid: a9682e5de0370f94a957025e3b03e6ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Innovate_Logo_1
+    second: {fileID: 2100000, guid: 18cba63caa6e3154fa05d2914645dee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron
+    second: {fileID: 2100000, guid: 2dbafc19084c97d4fb8b8b4a98963acd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METAL
+    second: {fileID: 2100000, guid: e7815dfb962d7d74d92aa106305695ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pattern_Tile_1
+    second: {fileID: 2100000, guid: 5bd131907ec91144b990c883f7b7fbf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pattern_Tile_2
+    second: {fileID: 2100000, guid: 101de04b5056ac842be12b016956f144, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pattern_Tile_3
+    second: {fileID: 2100000, guid: 76fea07de28e0d646963359f10471b3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Plaster
+    second: {fileID: 2100000, guid: dd2cb6abf1f8f2b4ba6ef52a2a86dd42, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Exit_Signage
+    second: {fileID: 2800000, guid: 90977535a71065c409cf8da03ddd6e14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: schcbgfp_4K_Normal
+    second: {fileID: 2800000, guid: 302b90e1c8596e748aa149473302e2b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: schcbgfp_4K_Specular
+    second: {fileID: 2800000, guid: 78baa62917145e04e992d90e1524a899, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: se4objgc_2K_Albedo
+    second: {fileID: 2800000, guid: 7b2268323abf0d6469dc02783ef62508, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: se4objgc_2K_Specular
+    second: {fileID: 2800000, guid: 8c36c21769144b24e8414ec0e1253d87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tfyoeeec_4K_Albedo
+    second: {fileID: 2800000, guid: 0a5f924db2100654989c3d7a738ed341, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tfyoeeec_4K_Normal
+    second: {fileID: 2800000, guid: 221c661a359e7e44180c48e500df06a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tfyoeeec_4K_Roughness
+    second: {fileID: 2800000, guid: 08f7c88b0de8af746bf91f59e2cd5b7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tfyoeeec_4K_Specular
+    second: {fileID: 2800000, guid: 9fb8ec15c72a7874096581b62eac478f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vdfiejqv_4K_Albedo
+    second: {fileID: 2800000, guid: c17cfa244b04be3439712a22548493de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vdfiejqv_4K_Metalness
+    second: {fileID: 2800000, guid: b440b2d37d4822441a1d792748ecc65b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vdfiejqv_4K_Roughness
+    second: {fileID: 2800000, guid: 57877926ed9c15d44bf1aee852647679, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ve0jddcv_4K_Albedo
+    second: {fileID: 2800000, guid: 426a018a704d3574899e485f97a08242, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ve0jddcv_4K_Normal
+    second: {fileID: 2800000, guid: 639ea93365b4e5347aba6e38859c9f8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ve0jddcv_4K_Roughness
+    second: {fileID: 2800000, guid: ff81925606720644daece26694503af4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ve0jddcv_4K_Specular
+    second: {fileID: 2800000, guid: 467dc02b9fae7dc43bd1c1bcd142e522, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ve0jeewv_4K_Albedo
+    second: {fileID: 2800000, guid: ad489f185ecd637468a8deba86ddc3c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ve0jeewv_4K_Normal
+    second: {fileID: 2800000, guid: 71d1e54582eb91c4b8055f83dcd788d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ve0jeewv_4K_Roughness
+    second: {fileID: 2800000, guid: 0686955697168f84e98ef7206792725d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ve0jeewv_4K_Specular
+    second: {fileID: 2800000, guid: cbecb205259aaba43901d11a76e7846c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: xepkaecs_4K_Normal
+    second: {fileID: 2800000, guid: 90791255a425d0f41aff620beb18e044, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: xepkaecs_4K_Specular
+    second: {fileID: 2800000, guid: 95fb8ac52253fa74c8befea7570ca586, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 250
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

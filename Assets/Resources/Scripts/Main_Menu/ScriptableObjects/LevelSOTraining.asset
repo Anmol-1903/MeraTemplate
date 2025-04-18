@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 417b04c92e2627f4f81afd827166a09d, type: 3}
+  m_Name: LevelSOTraining
+  m_EditorClassIdentifier: 
+  cardTemplate: {fileID: 1836974709902961539, guid: 59680cbbfab4da54ca857118a8921dc8, type: 3}
+  cards:
+  - key: Training1
+    sprite: {fileID: 0}
+    title: First Training
+    description: This is training 1
+    sceneToLoad: Training
+  - key: Training2
+    sprite: {fileID: 0}
+    title: Second Training
+    description: This is better
+    sceneToLoad: B
+  - key: Training3
+    sprite: {fileID: 0}
+    title: Third Training
+    description: Same same but different
+    sceneToLoad: B
+  - key: Training4
+    sprite: {fileID: 0}
+    title: Fourth Training
+    description: Final Training. Promise
+    sceneToLoad: B

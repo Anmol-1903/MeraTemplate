@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f637c5fe472d77e48bff5ec3ff2ebf6b, type: 3}
+  m_Name: Module1
+  m_EditorClassIdentifier: 
+  LevelName: BOP Field Engineer
+  TrainingStartAudio: {fileID: 0}
+  TrainingFinishAudio: {fileID: 0}
+  TrainingStartText: 'You will recieve a series of instructions to follow and complete
+    a task. Please follow them carefully.
+
+
+    Click on ''Start Training'' to begin.'
+  TrainingFinishText: You hae successfully completed all the steps of this training
+    module.
+  Steps:
+  - stepDatas:
+    - Name: DG Room
+      Description: "Go to 0-meter DG Room near DG Set\u200B"
+      countAsStep: 1
+      positionKey: Follow
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: DG 2 Breaker
+      Description: "On DG 2 breaker panel check for DG on indication. Green light
+        will glow when DG is ON.\u200B"
+      countAsStep: 1
+      positionKey: DG
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: DG 2 Breaker
+      Description: "Ensure that there is 440V in Multifunction meter.\u200B"
+      countAsStep: 1
+      positionKey: DG
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: DG 2 Breaker
+      Description: "Ensure 50 Hz frequency in frequency meter.\u200B"
+      countAsStep: 1
+      positionKey: DG
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: DG 2 Breaker
+      Description: "Ensure that the outgoing breaker is ON.\u200B\r\n\r\nIf it is
+        not ON, then follow the next step."
+      countAsStep: 1
+      positionKey: DG
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: DG 2 Breaker
+      Description: "Rotate the Motor Elector Switch to Manual Mode.\u200B"
+      countAsStep: 0
+      positionKey: DG
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+    - Name: DG 2 Breaker
+      Description: "Rotate the Motor Elector Switch to Manual Mode.\u200B"
+      countAsStep: 1
+      positionKey: DG
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+    - Name: DG 2 Breaker
+      Description: "Rotate the Motor Elector Switch to Manual Mode.\u200B"
+      countAsStep: 0
+      positionKey: DG
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: DG 2 Breaker
+      Description: Press the Engine Start button
+      countAsStep: 0
+      positionKey: DG
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+    - Name: DG 2 Breaker
+      Description: Press the Engine Start button
+      countAsStep: 1
+      positionKey: DG
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+    - Name: DG 2 Breaker
+      Description: Press the Engine Start button
+      countAsStep: 0
+      positionKey: DG
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: DG 2 Breaker
+      Description: "Close the Breaker by rotating the breaker control switch in clockwise
+        direction.\u200B"
+      countAsStep: 0
+      positionKey: DG
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+    - Name: DG 2 Breaker
+      Description: "Close the Breaker by rotating the breaker control switch in clockwise
+        direction.\u200B"
+      countAsStep: 1
+      positionKey: DG
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+    - Name: DG 2 Breaker
+      Description: "Close the Breaker by rotating the breaker control switch in clockwise
+        direction.\u200B"
+      countAsStep: 0
+      positionKey: DG
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: DG 2 Breaker
+      Description: "Ensure that the outgoing breaker is ON.\u200B"
+      countAsStep: 1
+      positionKey: DG
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: Generator Diesel Tank
+      Description: "Go to the Generator Diesel Tank. \u200B"
+      countAsStep: 1
+      positionKey: Follow
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: Generator Diesel Tank
+      Description: "Check the diesel level and inform to the control room.\u200B"
+      countAsStep: 1
+      positionKey: Diesel
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: Generator Diesel Tank
+      Description: "Check the radiator level and inform to the control room.\u200B"
+      countAsStep: 1
+      positionKey: Diesel
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: Unit-1 NE Switchgear
+      Description: "Go to the Unit-1 NE Switchgear.\u200B"
+      countAsStep: 1
+      positionKey: Follow
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: DG Incomer Panel
+      Description: "Go to the DG Incomer panel.\u200B"
+      countAsStep: 1
+      positionKey: Follow
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: DG Incomer Panel
+      Description: "Ensure that the DG breaker is ON by ensuring that red light is
+        glowing.\u200B"
+      countAsStep: 1
+      positionKey: Incomer
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  - stepDatas:
+    - Name: DG Incomer Panel
+      Description: "Ensure breaker is in service condition. ON will display\u200B"
+      countAsStep: 1
+      positionKey: Incomer
+      allowRotation: 1
+      AudioClip: {fileID: 0}
+  isAssessment: 0
